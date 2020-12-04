@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Pie /> the source code changed or not 1`] = `
+<div
+  class="echarts-for-react "
+  style="height:300px;min-height:320px"
+/>
+`;

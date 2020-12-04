@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LoginPage /> the source code changed or not 1`] = `
+<div
+  class="limiter"
+>
+  <div
+    class="container-login100"
+  >
+    <div
+      class="wrap-login100"
+    >
+      <div
+        class="login100-pic"
+      >
+        <img
+          alt="IMG"
+          src="undefined/assets/images/img-01.png"
+        />
+      </div>
+      <div
+        class="login100-form"
+      >
+        <span
+          class="login100-form-title"
+        >
+          Quark
+        </span>
+        <div
+          class="wrap-input100"
+        >
+          <input
+            class="input100"
+            name="username"
+            placeholder="Username"
+            type="text"
+            value=""
+          />
+          <span
+            class="focus-input100"
+          />
+          <span
+            class="symbol-input100"
+          >
+            <i
+              aria-hidden="true"
+              class="fa fa-user"
+            />
+          </span>
+        </div>
+        <div
+          class="wrap-input100"
+        >
+          <input
+            class="input100"
+            name="pass"
+            placeholder="Password"
+            type="password"
+            value=""
+          />
+          <span
+            class="focus-input100"
+          />
+          <span
+            class="symbol-input100"
+          >
+            <i
+              aria-hidden="true"
+              class="fa fa-lock"
+            />
+          </span>
+        </div>
+        <div
+          class="container-login100-form-btn"
+        >
+          <button
+            class="login100-form-btn"
+          >
+            登录
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

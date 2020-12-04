@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Line /> the source code changed or not 1`] = `
+<div>
+  <div
+    class="echarts-for-react "
+    style="height:300px;min-height:340px"
+  />
+</div>
+`;

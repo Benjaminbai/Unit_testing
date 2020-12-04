@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> the source code changed or not 1`] = `
+<a
+  href="/"
+>
+  <div
+    class="xui-card"
+  >
+    <div
+      style="padding:0 10px"
+    />
+    <div
+      style="padding:0 10px"
+    >
+      <div>
+        ben
+      </div>
+      <div
+        style="font-size:24px;font-weight:bold"
+      />
+    </div>
+  </div>
+</a>
+`;
